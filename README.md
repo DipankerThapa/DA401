@@ -5,6 +5,8 @@
 
 ## Research Question
 What question are you trying to answer?
+- Working Project Question:
+- Whether health-related marketing claims on packaged foods actually match the nutritional quality of the products being advertised.
 
 ## Data Source
 Where is your data coming from? 
