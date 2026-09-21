@@ -1,4 +1,4 @@
-# DA401 Capstone Project - [Your Name]
+# DA401 Capstone Project - [Dipanker Siddhi Thapa]
 
 ## Project Title
 Food Marketing and Nutritional quality in packaged foods.
