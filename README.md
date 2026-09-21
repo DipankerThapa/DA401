@@ -1,7 +1,7 @@
 # DA401 Capstone Project - [Your Name]
 
 ## Project Title
-(Write a clear, descriptive title for your project.)
+Food Marketing and Nutritional quality in packaged foods.
 
 ## Research Question
 What question are you trying to answer?
@@ -10,12 +10,15 @@ What question are you trying to answer?
 
 ## Data Source
 Where is your data coming from? 
+- Open Food Facts
 
 ## Methods
 Which methods or models will you use? 
 
+
 ## Expected Timeline
 What do you expect to produce every week?
+
 
 ## Google Drive 
 [Google Drive link if you have any]
